@@ -141,3 +141,117 @@ margin-left: 30%;
   border-radius: 20px;
 
 }
+.Section4 {
+  display: flex;
+  margin-bottom: 1%;
+  text-align: center;
+  margin: 1%;
+background-color: #e1ebe6;
+
+}
+
+.burger1 {
+  border: solid;
+  margin: 1%;
+  border-radius: 20px;
+  box-shadow: 2px 2px;
+}
+
+.burger2 {
+  border: solid;
+  margin: 1%;
+  border-radius: 20px;
+  box-shadow: 2px 2px;
+}
+
+.burger3 {
+  border: solid;
+  margin: 1%;
+  border-radius: 20px;
+  box-shadow: 2px 2px;
+
+}
+
+.section5 {
+  display: flex;
+  background-color: #e1ebe6;
+  
+}
+
+.Double {
+ color: black;
+ font-family: Arial, Helvetica, sans-serif;
+ font-style: normal;
+ font-weight: bolder
+}
+
+.decker {
+ color: yellow;
+ font-size: 25px;
+ font-weight: bolder;
+
+
+
+
+
+
+
+
+.section5 img {
+  margin-left: 30%;
+}
+
+
+}
+
+.text {
+  text-align: center;
+  margin-left: 100px;
+}
+
+.check {
+  margin-left: 50%;
+}
+
+.section7 {
+  display: flex;
+  margin-bottom: 2%;
+  justify-content: space-between;
+  margin-top: 1%;
+  background-color: #e1ebe6;
+}
+
+.section7 .log {
+
+  display: flex;
+  width: 440;
+}
+
+ .ul {
+  list-style: none;
+  display: inline-block;
+  padding: 15px 30px;
+  float: right;
+  margin-top: 0px;
+  font-size: 30px;
+}
+
+.Subs button {
+  background-color: #F6B400;
+}
+
+.Footer {
+  display: flex;
+  justify-content: space-between;
+}
+.h2 {
+  justify-content: center;
+}
+
+.our {
+  text-align: center;
+  font-size: x-large;
+  }
+  .menu {
+    color: #F6B400;
+  }
