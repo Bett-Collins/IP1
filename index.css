@@ -7,14 +7,11 @@ html {
 .section1 {
   margin-top: 0%;
   display: flex;
-margin: 0%;
+  margin: 0%;
 }
 
-
 .section1 .logo {
-  display: flex;
   margin-top: 0%;
-  
 }
 
 .Bur {
@@ -24,38 +21,40 @@ margin: 0%;
   font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
 }
+
 .Bur2 {
   color: #F6B400;
 }
 
-.ul {
-  float: right;
+.navbar ul {
+  display: flex;
+list-style: none;
+justify-content: space-evenly;
+margin-left: 20%;
+background-color: #F6B400;
 }
 
-shine {
+
+.s {
   display: flex;
   margin-top: 0%;
   justify-content: space-evenly;
   margin-right: 10%;
   margin-bottom: 4%;
-
+  margin-left: 0%;
 }
 
 .img {
-  margin-left: 0%;
+  margin-left: 2%;
   background-color: #F6B400;
-
-
 }
 
-.shine1 {
-  margin-left: 0%;
 
+.s img {
+  margin-left: 30%
 }
-.shine1 img {
-margin-left: 30%;
-}
-.shine1  button {
+
+.shine button {
   background-color: yellow;
 }
 
@@ -67,12 +66,8 @@ margin-left: 30%;
   border-radius: 20px;
   background-color: #e1ebe6;
   overflow: hidden;
-  justify-content: center; 
+  justify-content: center;
   width: 800px;
-  
-  
-
-  
 }
 
 .f {
@@ -83,8 +78,6 @@ margin-left: 30%;
   width: 250px;
   height: 350px;
   margin-right: 2%;
-
-
 }
 
 .Q {
@@ -104,18 +97,16 @@ margin-left: 30%;
   width: 300px;
   border-radius: 20px;
   height: 300px;
-  margin-right: 3%; 
+  margin-right: 3%;
   margin: 0%;
   margin-top: 7%;
   text-align: center;
-  
 }
+
 .section3 {
   display: flex;
-
   margin: 1%;
   text-align: center;
-
 }
 
 .dou1 {
@@ -130,9 +121,6 @@ margin-left: 30%;
   border: solid;
   margin: 1%;
   border-radius: 20px;
-
-
-
 }
 
 .dou3 {
@@ -141,12 +129,13 @@ margin-left: 30%;
   border-radius: 20px;
 
 }
+
 .Section4 {
   display: flex;
   margin-bottom: 1%;
   text-align: center;
   margin: 1%;
-background-color: #e1ebe6;
+  background-color: #e1ebe6;
 
 }
 
@@ -175,35 +164,28 @@ background-color: #e1ebe6;
 .section5 {
   display: flex;
   background-color: #e1ebe6;
-  
+  width: 400px;
+
 }
 
 .Double {
- color: black;
- font-family: Arial, Helvetica, sans-serif;
- font-style: normal;
- font-weight: bolder
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bolder
 }
 
 .decker {
- color: yellow;
- font-size: 25px;
- font-weight: bolder;
-
-
-
-
-
-
+  color: yellow;
+  font-size: 25px;
+  font-weight: bolder;
+}
 
 
 .section5 img {
   margin-left: 30%;
+  width: 550px;
 }
-
-
-}
-
 .text {
   text-align: center;
   margin-left: 100px;
@@ -219,6 +201,7 @@ background-color: #e1ebe6;
   justify-content: space-between;
   margin-top: 1%;
   background-color: #e1ebe6;
+  width: 790px;
 }
 
 .section7 .log {
@@ -227,7 +210,7 @@ background-color: #e1ebe6;
   width: 440;
 }
 
- .ul {
+.ul {
   list-style: none;
   display: inline-block;
   padding: 15px 30px;
@@ -244,6 +227,7 @@ background-color: #e1ebe6;
   display: flex;
   justify-content: space-between;
 }
+
 .h2 {
   justify-content: center;
 }
@@ -251,7 +235,8 @@ background-color: #e1ebe6;
 .our {
   text-align: center;
   font-size: x-large;
-  }
-  .menu {
-    color: #F6B400;
-  }
+}
+
+.menu {
+  color: #F6B400;
+}
