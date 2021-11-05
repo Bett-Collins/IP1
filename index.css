@@ -31,3 +31,29 @@ margin: 0%;
 .ul {
   float: right;
 }
+
+shine {
+  display: flex;
+  margin-top: 0%;
+  justify-content: space-evenly;
+  margin-right: 10%;
+  margin-bottom: 4%;
+
+}
+
+.img {
+  margin-left: 0%;
+  background-color: #F6B400;
+
+
+}
+
+.shine1 {
+  margin-left: 0%;
+
+}
+.shine1 img {
+margin-left: 30%;
+}
+.shine1  button {
+  background-color: yellow;
